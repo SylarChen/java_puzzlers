@@ -1,4 +1,4 @@
-package com.hpe.sylar.puzzlers;
+package com.hpe.sylar.puzzlers.a;
 
 import java.math.BigDecimal;
 
